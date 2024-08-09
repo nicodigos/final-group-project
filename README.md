@@ -20,4 +20,9 @@ We developed this project as part of our class to apply the knowledge we gained,
    ```bash
    git clone https://github.com/nicodigos/final-group-project.git
    cd final-group-project
+   pip install -r requirements.txt```
 
+
+
+## Swagger UI docs
+![Swagger Documentation](swagger.png)
